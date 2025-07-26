@@ -2,14 +2,14 @@
 
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/YourUsername/YourRepoName/blob/main/banner.png" alt="Soft Psychology Plant Banner" width="100%">
+  <img src="C:\Users\G force\Desktop\Evergrain\Create a GitHub prof.png" alt="Soft Psychology Plant Banner" width="100%">
 </p>
 
 Welcome to my little corner of GitHub—where thoughtful design meets mindful communication. I craft web applications that don’t just function beautifully—they feel like growth.
 
 ---
 
-## 🧠 Philosophy-Driven Development  
+🧠 Philosophy-Driven Development  
 I believe design is empathy.  
 Code is intention.  
 And learning is rooted in curiosity.  
@@ -18,14 +18,14 @@ Through every layout or line of CSS, I reflect values like **emotional clarity**
 
 ---
 
-## 🌾 My Current Garden
+🌾 My Current Garden
 - Redesigning the **Evergrain Web App** with soft tones and intuitive UX  
 - Summarizing academic content into gentle, digestible formats  
 - Refining messages for professional and emotional clarity
 
 ---
 
-## 🧰 Skills & Tools
+🧰 Skills & Tools
 
 | Domain              | Tools & Traits                                                  |
 |--------------------|------------------------------------------------------------------|
@@ -45,12 +45,10 @@ Through every layout or line of CSS, I reflect values like **emotional clarity**
 
 ## 📊 Visual Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=calm)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=calm)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulNancy&layout=compact&theme=calm)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatulNancy&show_icons=true&theme=calm)
 
-> _(Replace `YourUsername` and `YourRepoName` with your actual GitHub handle and repo name to activate the visuals and banner!)_
 
----
 
 ## 🌻 Let’s Connect  
 Curious minds grow best when they’re not alone.  
