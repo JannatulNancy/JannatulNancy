@@ -2,11 +2,10 @@
 
 <!-- Banner Section -->
 <p align="center">
-  <img src="Create a GitHub prof.png" alt="Soft Psychology Plant Banner" width="65%">
+  <img src="Create a GitHub prof.png" alt="Soft Psychology Plant Banner" width="40%">
 </p>
 
 Welcome to my little corner of GitHub—where thoughtful design meets mindful communication. I craft web applications that don’t just function beautifully—they feel like growth.
-
 
 ## 🧠 Philosophy-Driven Development  
 I believe design is empathy.  
@@ -15,12 +14,10 @@ And learning is rooted in curiosity.
 
 Through every layout or line of CSS, I reflect values like **emotional clarity**, **accessibility**, and **personal growth**—because technology can be nurturing too.
 
-
 ## 🌾 My Current Garden
 - Redesigning the **Evergrain Web App** with soft tones and intuitive UX  
 - Summarizing academic content into gentle, digestible formats  
 - Refining messages for professional and emotional clarity
-
 
 ## 🧰 Skills & Tools
 
@@ -31,13 +28,10 @@ Through every layout or line of CSS, I reflect values like **emotional clarity**
 | 🎨 Design           | UI/UX aesthetics • Soft Sage palettes • Symbolic harmony        |
 | 🪴 Mindset          | Reflection • Feedback integration • Curiosity about psychology  |
 
-
 ## 💫 Core Values
-- ✨ *Clarity is kindness*  
-- 🌿 *Design is emotional expression*  
-- 🪞 *Growth begins with self-awareness*
-
----
+✨ *Clarity is kindness*  
+🌿 *Design is emotional expression*  
+🪞 *Growth begins with self-awareness*
 
 ## 📊 Visual Stats
 
