@@ -2,7 +2,7 @@
 
 <!-- Banner Section -->
 <p align="center">
-  <img src="Create a GitHub prof.png" alt="Soft Psychology Plant Banner" width="100%">
+  <img src="Create a GitHub prof.png" alt="Soft Psychology Plant Banner" width="65%">
 </p>
 
 Welcome to my little corner of GitHub—where thoughtful design meets mindful communication. I craft web applications that don’t just function beautifully—they feel like growth.
