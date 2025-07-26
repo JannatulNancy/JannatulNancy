@@ -43,7 +43,6 @@ Through every layout or line of CSS, I reflect values like **emotional clarity**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulNancy&layout=compact&theme=calm)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatulNancy&show_icons=true&theme=calm)
-![Contribution Graph](https://github_readme-activity-graph-cycle.app/graph?username=JannatulNancy)
 
 ## 🌻 Let’s Connect  
 Curious minds grow best when they’re not alone.  
