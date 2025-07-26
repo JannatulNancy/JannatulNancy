@@ -2,7 +2,7 @@
 
 <!-- Banner Section -->
 <p align="center">
-  <img src="Create a GitHub prof.png" alt="Soft Psychology Plant Banner" width="150%">
+  <img src="Create a GitHub prof.png" alt="Soft Psychology Plant Banner" width="100%">
 </p>
 
 Welcome to my little corner of GitHub—where thoughtful design meets mindful communication. I craft web applications that don’t just function beautifully—they feel like growth.
@@ -43,6 +43,10 @@ Through every layout or line of CSS, I reflect values like **emotional clarity**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulNancy&layout=compact&theme=calm)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatulNancy&show_icons=true&theme=calm)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JannatulNancy&theme=github-light" alt="Contribution Graph" />
+</p>
+
 
 
 
