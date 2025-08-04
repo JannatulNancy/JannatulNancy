@@ -15,7 +15,7 @@ And learning is rooted in curiosity.
 Through every layout or line of CSS, I reflect values like **emotional clarity**, **accessibility**, and **personal growth**—because technology can be nurturing too.
 
 ## 🌾 My Current Garden
-- Redesigning the **Evergrain Web App** with soft tones and intuitive UX  
+- Redesigning the **SyncSpender & SkillSync Web App** with soft tones and intuitive UX  
 - Summarizing academic content into gentle, digestible formats  
 - Refining messages for professional and emotional clarity
 
