@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>🌿 Hello, I’m Jannatul Nancy</h2>
+  <h1>🌿 Hello, I’m Jannatul Nancy</h1>
 </p>
 
 # 💻 Tech Stack:
