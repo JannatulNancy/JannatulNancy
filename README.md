@@ -1,45 +1,15 @@
-# 🌿 Hello, I’m Jannatul Nancy
 
-<!-- Banner Section -->
-<p align="center">
-  <img src="Create a GitHub prof.png" alt="Soft Psychology Plant Banner" width="40%">
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JannatulNancy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nancyjannatul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JannatulNayeem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jnnancy345@gmail.com) 
 
-Welcome to my little corner of GitHub—where thoughtful design meets mindful communication. I craft web applications that don’t just function beautifully—they feel like growth.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JannatulNancy&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JannatulNancy&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulNancy&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🧠 Philosophy-Driven Development  
-I believe design is empathy.  
-Code is intention.  
-And learning is rooted in curiosity.  
+---
+[![](https://visitcount.itsvg.in/api?id=JannatulNancy&icon=10&color=13)](https://visitcount.itsvg.in)
 
-Through every layout or line of CSS, I reflect values like **emotional clarity**, **accessibility**, and **personal growth**—because technology can be nurturing too.
-
-## 🌾 My Current Garden
-- Redesigning the **SyncSpender & SkillSync Web App** with soft tones and intuitive UX  
-- Summarizing academic content into gentle, digestible formats  
-- Refining messages for professional and emotional clarity
-
-## 🧰 Skills & Tools
-
-| Domain              | Tools & Traits                                                  |
-|--------------------|------------------------------------------------------------------|
-| 🌐 Web Development | HTML • CSS • Razor Pages • Git/GitHub                            |
-| 🌸 Communication    | Clear phrasing • Empathetic tone • Message refinement           |
-| 🎨 Design           | UI/UX aesthetics • Soft Sage palettes • Symbolic harmony        |
-| 🪴 Mindset          | Reflection • Feedback integration • Curiosity about psychology  |
-
-## 💫 Core Values
-✨ *Clarity is kindness*  
-🌿 *Design is emotional expression*  
-🪞 *Growth begins with self-awareness*
-
-## 📊 Visual Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulNancy&layout=compact&theme=calm)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatulNancy&show_icons=true&theme=calm)
-
-## 🌻 Let’s Connect  
-Curious minds grow best when they’re not alone.  
-Let’s collaborate, share meaningful ideas, or simply exchange thoughts on design and psychology. ☕  
-You’ll find a little light in every repo 🌟
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
