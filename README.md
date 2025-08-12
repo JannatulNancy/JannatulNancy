@@ -1,5 +1,7 @@
 <p align="center">
-  <h1>🌿 Hello, I’m Jannatul Nancy</h1>
+  <h1>🌿 Hola, It's Jannatul Nayeem </h1>
+  In short, you can call me
+  <h1> Nancy!😃 </h1>
 </p>
 
  <h3> 💻 Tech Stack: </h3>
